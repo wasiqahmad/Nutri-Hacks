@@ -1,0 +1,414 @@
+.website{
+    width: 96% ;
+margin-left: 1rem;    
+height: 36rem !important;
+background-image:url(../images/jpg/hero-img.jpg);
+background-color: rgba(235, 232, 232, 0.897);
+}
+.header-pic{
+    width: 60%;
+height: 41.5rem;
+    position: absolute;
+    float: right;
+    top: -2.5rem;
+}
+.header-logo{
+    position: absolute;
+    margin-left: 1rem;
+}
+.header-link-1{
+    position: relative;
+    top: -2.5rem;
+    left: 18rem;
+    margin-left: 1rem;
+    width: 13rem;
+    z-index: 10;
+}
+.header-link-2{
+width:13rem;
+position: relative;
+left: 17rem;
+top: -2.5rem;
+z-index: 10;
+}
+.header-link-3{
+    width:13rem;
+    position: relative;
+    left: -13rem;
+    top: -2.5rem;
+    z-index: 10;
+    }
+.header-link-4{
+    width:13rem;
+    position: relative;
+    left: -8rem;
+    top: -2.5rem;
+    z-index: 10;
+}
+    .header-main{
+        font-size: 230%;
+        color: rgb(255, 123, 0);
+    margin-top: 0%;
+    position: relative;
+top: -4rem;
+left: 1rem;
+    }
+    .sub-heading{
+        width: 38%;
+        position: relative;
+        top: -4rem;
+    /* margin-top: 2rem; */
+    font-size: 180%;
+    text-transform: uppercase;
+    color: rgb(255, 87, 115);
+margin-left: 1rem;    
+}
+.head-paragraph{
+    width: 36%;
+    font-size: 120%;
+    margin-left: 1rem;
+    font-weight: bold;
+    position: relative;
+    top: -3.6rem;
+}
+.head-btn{
+    font-size: 110%;
+    background-color:rgb(255, 87, 115) ;
+    color: #fff;
+position: relative;
+top: -2rem;
+    padding: .2rem 6rem;
+    border-radius: 5rem;
+    margin-left: 1rem;
+    border: hidden;
+    cursor: pointer;
+}
+.button-1{
+    background-color: rgb(255, 87, 115);
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 5rem;
+    padding: .3rem 1.3rem;
+    position: relative;
+    left: 14rem;
+    top: 14rem;
+    font-size: 110%;
+    border: hidden;
+    cursor: pointer;
+}.button-2{
+    background-color: rgb(255, 87, 115);
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 5rem;
+    padding: .3rem 1.3rem;
+    position: relative;
+    left: 16.5rem;
+    top: 14rem;
+    font-size: 110%;
+    border: hidden;
+    cursor: pointer;
+}.button-3{
+    background-color: rgb(255, 87, 115);
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 5rem;
+    padding: .3rem 1.3rem;
+    position: relative;
+    left: 19rem;
+    top: 14rem;
+    font-size: 110%;
+    border: hidden;
+    cursor: pointer;
+}
+/* sub-header */
+.web-page{
+    width: 100% !important;
+    background-color: rgba(235, 232, 232, 0.897);
+    /* float: left !important; */
+}
+.heading-2{
+    margin-top: 0%;
+    color: rgb(255, 87, 115);
+padding: 2rem 15rem;
+padding-top: 4rem;
+font-size: 250%;
+width: 20%;
+text-align: center;
+}
+.paragraph-2{
+font-size: 120%;
+    width: 30%;
+    text-align: center;
+    margin-left: 11rem;
+ }
+.vedio{
+    width: 30%;
+float: right;
+margin-top: 4rem;
+margin-right: 14rem;
+}
+.line{
+width: 18%;
+height: .1rem;
+background-color:rgb(255, 87, 115) ;
+margin-top: 4rem !important;
+margin-left: 15.5rem;
+}
+.first-page-end{
+    width: 100% !important;
+    border-top: .8rem solid rgb(66, 58, 58);
+}
+/* second page */
+.next-page{
+margin-top: 22.5rem;
+}
+
+.second-page{
+background-color: rgba(235, 232, 232, 0.897);
+width: 96% ;
+height: 60.55rem;
+margin-left: 1rem; 
+margin-top: 1.2rem;   
+}
+.btn-2{
+background-color:rgb(255, 87, 115);
+padding: .2rem 3.5rem;
+font-size: 110%;
+border: hidden;
+border-radius: 5rem;
+margin-left: 15.3rem;
+color: #fff;
+}
+.heading-page-2{
+    text-transform: uppercase;
+    color: rgb(255, 87, 115);
+    width: 67%;
+    margin: auto;
+    margin-top: 5rem;
+    font-size: 160%;
+}
+.sub-heading-2{
+    width: 34%;
+    text-transform: uppercase;
+    color: rgb(255, 87, 115);
+margin-left:30rem;
+margin-top: 8rem;
+margin-bottom: 0%;
+font-size: 160%;
+}
+.sub-paragraph-2{
+    font-size: 120%;
+    width: 34%;
+    margin-left: 30.5rem;
+margin-top: 0 !important;
+}
+.sub-heading-3{
+width: 33%;
+color: rgb(255, 87, 115);
+text-transform: uppercase;
+margin-left: 29rem;
+margin-top: 3.5rem;
+margin-bottom: 0;
+font-size: 160%;
+
+}
+.sub-paragraph-3{
+width: 37%;
+font-size: 120%;
+margin-left: 29rem;
+margin-top:0 ;
+}
+.sub-heading-4{
+    width: 7%;
+    margin: auto;
+    margin-top: 10rem;
+    color: rgb(255, 87, 115);
+text-transform: uppercase;
+font-size: 160%;
+}
+.sub-paragraph-4{
+font-size: 120%;
+width: 33%;
+margin-left: 29.5rem;
+text-align: center;
+}
+/* card */
+
+/* card-1 */
+.card-1{
+    margin-top: 5rem;
+    width: 10rem;
+    padding-left: 3.2rem;
+    margin-left: 10.5rem !important;
+border: .3rem solid rgb(25, 226, 199);
+border-bottom: none;
+float: left;
+}
+.heading-card{
+ text-transform: uppercase;
+ color: rgb(255, 87, 115);
+ font-size: 160%;
+ margin-left: -.3rem;
+ font-weight: 500 !important;
+ margin-top: 5%;
+ margin-bottom: 5% !important;
+}
+.card-paragraph{
+margin-top: 5%;
+font-size: 220%;
+font-weight: bold;
+}
+.mile{
+font-size: 30%;
+}
+/* card2 */
+.card-2{
+    margin-top: 5rem;
+    width: 10rem;
+    padding-left: 3.2rem;
+    margin-left: 10.5rem !important;
+border: .3rem solid rgb(240, 114, 11);
+border-bottom: none;
+float: left;
+}
+.heading-card-2{
+    text-transform: uppercase;
+    color: rgb(255, 87, 115);
+ font-size: 160%;
+ margin-left: -2.2rem;
+ font-weight: 500 !important;
+ margin-top: 5%;
+ margin-bottom: 5% !important;
+}
+/* card-3 */
+.card-3{
+margin-top: 5rem;
+width: 10rem;
+padding-left: 3.2rem;
+margin-left: 10.5rem !important;
+border: .3rem solid rgb(255, 87, 115);
+border-bottom: none;
+float: left;
+}
+.heading-card-3{
+ text-transform: uppercase;
+ color: rgb(255, 87, 115);
+ font-size: 160%;
+ margin-left: -.8rem;
+ font-weight: 500 !important;
+ margin-top: 5%;
+ margin-bottom: 5% !important;
+}
+/* second-page-end */
+.second-page-end{
+margin: 1.5rem 0;
+width: 100% !important;
+border-top: .8rem solid rgb(66, 58, 58);
+}
+.page-3{
+background-color:rgba(235, 232, 232, 0.897) !important;
+width: 96% ;
+margin-left: 1rem;    
+}
+/* card-end-1 */
+.card-end-1{
+    width: 10rem;
+    padding-top: 1rem;
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+    margin-left: 10.5rem !important;
+border: .3rem solid rgb(25, 226, 199);
+border-top: none;
+float: left;
+}
+.line-1{
+    margin-top: 1.5rem !important;
+    margin-bottom: 0rem;
+}
+.number-1{
+float: right;
+}
+.card-footer{
+width: 11.2rem !important;
+padding-left: 2.5rem;
+margin-left: -1.8rem;
+padding-top: 1rem;
+padding-bottom: 1rem;
+margin-bottom: 0rem;
+background-color: rgb(25, 226, 199);
+color: #fff;
+}
+
+/* card-2-end */
+.card-end-2{
+    width: 10rem;
+    padding-top: 1rem;
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+    margin-left: 10.5rem !important;
+border: .3rem solid rgb(240, 114, 11);
+border-top: none;
+float: left;
+}
+.card-footer-2{
+    width: 11.2rem !important;
+    padding-left: 2.5rem;
+    margin-left: -1.8rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0rem;
+    background-color: rgb(240, 114, 11);
+    color: #fff;
+    }
+    /* card-end-3 */
+    .card-end-3{
+    width: 10rem;
+    padding-top: 1rem;
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+    margin-left: 10.5rem !important;
+    border: .3rem solid rgb(255, 87, 115);
+    border-top: none;
+    float: left;
+    }
+.card-footer-3{
+    width: 11.2rem !important;
+    padding-left: 2.5rem;
+    margin-left: -1.8rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0rem;
+    background-color: rgb(255, 87, 115);
+    color: #fff;
+    }
+    .card-button{   
+    background-color: rgb(255, 87, 115);
+    color: #fff;padding: .3rem 6rem;
+    border-radius: 5rem;
+    border: hidden;
+    font-size: 110%;
+margin-top: 5rem;
+margin-left: 33rem;
+margin-bottom: 4rem;
+}
+.footer{
+    width: 96% ;
+margin-left: 1rem;
+background-color: rgb(49, 43, 43); 
+/* height: rem; */
+color:#fff;
+}
+.footer-line,.footer-link{
+    color: rgb(224, 218, 218);
+text-align: center;
+padding-bottom: 3.7rem;
+}
+.icon{
+font-size:2rem;
+width: 10%;
+margin-left: 3rem;
+}
+.icons{
+    padding-top: 3rem;
+    margin-left: 34rem;
+}
